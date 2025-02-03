@@ -1,13 +1,13 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Jason Odom # your name (or website title) here
+logo: "/images/215A0280.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hello, I am a senior at California State University, Fresno, majoring in Business Administration, with Data Analytics being my focus. 
   <br><br>
-  Second description 
+  Feel free to look around at the projects I have completed, and if you have any questions about anything, feel free to email me at jasonodom44@gmail.com 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/jason-odom-21a52916a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bd%2B0EsdRSTMmHNf6ZTdig3w%3D%3D">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: G-YTG3XNN7GQ # your Google Analytics tracking ID here
