@@ -9,4 +9,4 @@
 
 This Google Sheets-based payroll automation system streamlines compensation calculations and reporting for clinicians at a mental health facility.  Using Google Apps Script, it automates data import from Simple Practice, calculates clinician payments based on factors like weight class and payment source, generates personalized pay reports, and automates email delivery. The system improves efficiency, transparency, and scalability, reducing payroll processing time from hours to minutes.
 
-#[Link to more Project Information](https://medium.com/@jasonodom44/automating-payroll-processing-for-a-mental-health-clinic-5f4742cde1e4)
+[Medium Link](https://medium.com/@jasonodom44/automating-payroll-processing-for-a-mental-health-clinic-5f4742cde1e4)
