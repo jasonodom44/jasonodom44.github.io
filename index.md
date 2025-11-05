@@ -13,6 +13,12 @@ This machine learning system predicts arteriovenous fistula failure in dialysis 
 
 [View Code](https://github.com/jasonodom44/avf_failure_prediction)
 
+# Credit Risk Modeling - Predicting Loan Defaults
+
+Built XGBoost classifier on 1.35 million Lending Club loans achieving 0.72 AUC-ROC and 53% recall, enabling banks to proactively identify high-risk borrowers before default. Optimized decision threshold from 0.5 to 0.25 using precision-recall analysis, balancing false negatives (missed defaults = direct loss) versus false positives (rejected good loans = opportunity cost). Model's top predictors (loan grade, interest rate, debt ratios) align with financial domain knowledge, validating it learned actual risk factors rather than spurious correlations. Projected impact: $238M in avoided losses annually for a $500M loan portfolio through early intervention.
+
+[View Code](https://github.com/jasonodom44/credit-risk-modeling)
+
 # Payroll Automation for Mental Health Facility with Google Sheets/Apps Script
 <img src="images/Bookkeeping.jpg?raw=true"/>
 
